@@ -1,0 +1,3 @@
+check50:
+  files:
+    - !include input-checker.py
